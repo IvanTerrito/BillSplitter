@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "681405986075",
+    "firebase_url": "https://bill-splitter-602fd.firebaseio.com",
+    "project_id": "bill-splitter-602fd",
+    "storage_bucket": "bill-splitter-602fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681405986075:android:8c78999139e1c54e",
+        "android_client_info": {
+          "package_name": "liveapps.it.billsplitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681405986075-fnur06rp1lgba172r61idsot62q1vhpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "liveapps.it.billsplitter",
+            "certificate_hash": "b7d83826adaf3998c758e931c4f50a2bff88562a"
+          }
+        },
+        {
+          "client_id": "681405986075-ammj8qddlme6drgns4u2m6t9uvegcse6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6OfYo6Luh4ZQHvFQDGZepVIieOU071UM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681405986075-ammj8qddlme6drgns4u2m6t9uvegcse6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

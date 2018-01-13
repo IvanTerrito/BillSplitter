@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bill Splitter</string>
+    <string name="super_bill">Bill divider</string>
+
+    <string name="super_bill_hint_total">Subtotal bill (€/$/£)</string>
+    <string name="super_bill_hint_tip">Tip (%)</string>
+    <string name="super_bill_hint_persons">N persons</string>
+    <string name="super_bill_total">Total bill</string>
+    <string name="super_bill_total_person">Bill per person</string>
+    <string name="super_bill_total_tip">Total tip</string>
+    <string name="super_bill_total_tip_person">Tip per person</string>
+    <string name="super_bill_no_fill">You must provide at least the subtotal and the persons number</string>
+
+    <!-- messaggi catch connessioni -->
+    <string name="catch1">There was an error downloading the results. Please try again</string>
+    <string name="catch2">There was an error. Please try again</string>
+    <string name="error_generic">Error!</string>
+
+    <string name="messaggio_chiudi">Close</string>
+</resources>

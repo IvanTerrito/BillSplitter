@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Divisione conto</string>
+    <string name="super_bill">Divisione conto</string>
+
+    <string name="super_bill_hint_total">Subtotale (€/$/£)</string>
+    <string name="super_bill_hint_tip">Mancia (%)</string>
+    <string name="super_bill_hint_persons">N persone</string>
+    <string name="super_bill_total">Totale conto</string>
+    <string name="super_bill_total_person">Conto per persona</string>
+    <string name="super_bill_total_tip">Totale mancia</string>
+    <string name="super_bill_total_tip_person">Mancia per persona</string>
+    <string name="super_bill_no_fill">Devi inserire almeno il subtotale ed il numero di persone</string>
+
+    <!-- messaggi catch connessioni -->
+    <string name="catch1">Si è verificato un errore nel download. Ritenta per favore</string>
+    <string name="catch2">Si è verificato un errore. Ritenta per favore</string>
+    <string name="error_generic">Errore!</string>
+
+    <string name="messaggio_chiudi">Chiuso</string>
+</resources>
